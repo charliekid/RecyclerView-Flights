@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">RecyclerView</string>
+    <string name="app_name">ImperialAirCharter</string>
+    <string name="mainMenuLabel">Main Menu</string>
+    <string name="createAccountLabel">Create Account</string>
+    <string name="reserveSeatLabel">Reserve Seat</string>
+    <string name="cancelReservationLabel">Cancel Reservation</string>
+    <string name="manageSystemLabel">Manage System</string>
+
+    <string name="usernameLabel">Username</string>
+    <string name="passwordLabel">Password</string>
+    <string name="accountCreatedMessage">Account Created!</string>
+    <string name="loginLabel">Login</string>
+
+    <string name="incorrectLogInDialog">Incorrect Username or Password!</string>
+    <string name="incorrectAccountCreationDialog">Username and Password must have 1 number and 3 alpha</string>
+    <string name="okayDialog">Okay</string>
+
+    <string name="accountRequirementsMessage">Both username and password must have at least one number and at least three alphabetical letters </string>
+
+    <string name="returnToMainMenuLabel">Return to Main Menu</string>
+
+    <!--    string for view all flight activity-->
+    <string name="viewFlights">View Flights</string>
 </resources>
